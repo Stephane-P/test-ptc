@@ -17,7 +17,11 @@ un estimé du coût de stockage est indiqué à titre d'information, mais on ret
 Quelques ressources de la communauté pour les outils de calculs !!
 
 http://mathrice.fr
+
 http://placo.mathrice.fr
+
 http://annuaire.emath.fr
+
 https://plm.math.cnrs.fr/portail
+
 https://forge.math.cnrs.fr
